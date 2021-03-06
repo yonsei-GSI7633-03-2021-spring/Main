@@ -28,7 +28,7 @@
 git pull
 git add .
 git commit -m "Submit assignment 1"
-git push origin master
+git push origin main
 ```
 
 
