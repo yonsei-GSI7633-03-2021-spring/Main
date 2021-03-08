@@ -25,8 +25,8 @@
 
 | Class |       Date       |      Topic     |       Detail       |   Assignment  | FAQ |
 |:-----:|:----------------:|:--------------:|:------------------:|:-------------:|:---:|
-|  1  |  3월 6일            |     환경설정     |                    |   [Assignment 1]            |     |
-|  2  |  3월 13일           |     변수        |                    |               |     |
+|  1  |  3월 6일            |     환경설정     |    [Lecture 1]     |   [Assignment 1]            |     |
+|  2  |  3월 13일           |     변수        |  [Lecture 2],[Practice 2]  | [Assignment 2]   |     |
 |  3  |  3월 20일           |     문자열       |                    |               |     |
 |  4  |  3월 27일           |    조건문,반복문  |                    |               |     |
 |  5  |  4월 3일            |    함수         |                    |               |     |
@@ -43,13 +43,16 @@
 
 
 [Lecture 1]: lecture/week-01
+[Lecture 2]: lecture/week-02
 
 
 [Assignment 1]: assignment/week-01
+[Assignment 2]: assignment/week-02
 
 
 
 [Practice 1]: practice/week-01
+[Practice 2]: practice/week-02
 
 
 
@@ -61,7 +64,8 @@
 
 |               Assignment               | Date Assigned |   Due Date   |    Tutorial  |   Solution   |    Point     |
 |:--------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
-| [Assignment 1]                      |  토, 3월 6일  |  금, 3월 12일 | | | 1 |
+| [Assignment 1]                      |  토, 3월 6일  |  금, 3월 12일 | [Video](https://www.loom.com/share/09a079b9f3c34fd3960d8c340e4a0e15) | | 1 |
+| [Assignment 2]                      |  토, 3월 13일  |  금, 3월 19일 | | | 12 |
 
 
 
