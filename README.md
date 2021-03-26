@@ -28,13 +28,13 @@
 |  1  |  3월 6일            |     환경설정     |    [Lecture 1]     |   [Assignment 1]            |     |
 |  2  |  3월 13일           |     변수        |  [Lecture 2],[Practice 2]  | [Assignment 2]   |     |
 |  3  |  3월 20일           |     문자열, Collection | [Lecture 3],[Practice 3]   |  [Assignment 3] |     |
-|  4  |  3월 27일           |    조건문,반복문  |                    |               |     |
+|  4  |  3월 27일           |    조건문,반복문  |  [Lecture 4],[Practice 4]   |  [Assignment 4] |     |
 |  5  |  4월 3일            |    함수         |                    |               |     |
 |  6  |  4월 10일           |    클래스 1     |                    |               |     |
 |  7  |  4월 17일           |    클래스 2     |                    |               |     |
 |  8  |  4월 24일           |    데이터 전처리   |                    |               |     |
-|  9  |  5월 1일            |    데이터 시각화   |                    |               |     |
 |  -  |  휴강               |                |                    |               |     |
+|  9  |  5월 8일            |    데이터 시각화   |                    |               |     |
 |  10 |  5월 15일           |    빅데이터 분석   |                    |               |     |
 
 
@@ -45,17 +45,20 @@
 [Lecture 1]: lecture/week-01
 [Lecture 2]: lecture/week-02
 [Lecture 3]: lecture/week-03
+[Lecture 4]: lecture/week-04
 
 
 [Assignment 1]: assignment/week-01
 [Assignment 2]: assignment/week-02
 [Assignment 3]: assignment/week-03
+[Assignment 4]: assignment/week-04
 
 
 
 [Practice 1]: practice/week-01
 [Practice 2]: practice/week-02
 [Practice 3]: practice/week-03
+[Practice 4]: practice/week-04
 
 
 
@@ -70,6 +73,7 @@
 | [Assignment 1]                      |  토, 3월 6일  |  금, 3월 12일 | [Video](https://www.loom.com/share/09a079b9f3c34fd3960d8c340e4a0e15) | | 1 |
 | [Assignment 2]                      |  토, 3월 13일  |  금, 3월 19일 | | | 12 |
 | [Assignment 3]                      |  토, 3월 20일  |  금, 3월 26일 | | | 20 |
+| [Assignment 4]                      |  토, 3월 27일  |  금, 4월 3일 | | | 50 |
 
 
 
