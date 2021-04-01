@@ -29,13 +29,13 @@
 |  2  |  3월 13일           |     변수        |  [Lecture 2],[Practice 2]  | [Assignment 2]   |     |
 |  3  |  3월 20일           |     문자열, Collection | [Lecture 3],[Practice 3]   |  [Assignment 3] |     |
 |  4  |  3월 27일           |    조건문,반복문  |  [Lecture 4],[Practice 4]   |  [Assignment 4] |     |
-|  5  |  4월 3일            |    함수         |                    |               |     |
-|  6  |  4월 10일           |    클래스 1     |                    |               |     |
-|  7  |  4월 17일           |    클래스 2     |                    |               |     |
-|  8  |  4월 24일           |    데이터 전처리   |                    |               |     |
+|  5  |  4월 3일            |    함수, 클래스   |  [Lecture 5],[Practice 5]   |   -   |     |
+|  6  |  4월 10일           |    Data     |                    |               |     |
+|  7  |  4월 17일           |    데이터 전처리    |                    |               |     |
+|  8  |  4월 24일           |    데이터 시각화   |                    |               |     |
 |  -  |  휴강               |                |                    |               |     |
-|  9  |  5월 8일            |    데이터 시각화   |                    |               |     |
-|  10 |  5월 15일           |    빅데이터 분석   |                    |               |     |
+|  9  |  5월 8일            |    빅데이터 분석1   |                    |               |     |
+|  10 |  5월 15일           |    빅데이터 분석2   |                    |               |     |
 
 
 
@@ -46,6 +46,7 @@
 [Lecture 2]: lecture/week-02
 [Lecture 3]: lecture/week-03
 [Lecture 4]: lecture/week-04
+[Lecture 5]: lecture/week-05
 
 
 [Assignment 1]: assignment/week-01
@@ -55,10 +56,12 @@
 
 
 
+
 [Practice 1]: practice/week-01
 [Practice 2]: practice/week-02
 [Practice 3]: practice/week-03
 [Practice 4]: practice/week-04
+[Practice 5]: practice/week-05
 
 
 
