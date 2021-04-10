@@ -47,7 +47,7 @@
 [Lecture 3]: lecture/week-03
 [Lecture 4]: lecture/week-04
 [Lecture 5]: lecture/week-05
-[Lecture 5]: lecture/week-06
+[Lecture 6]: lecture/week-06
 
 
 [Assignment 1]: assignment/week-01
@@ -64,7 +64,7 @@
 [Practice 3]: practice/week-03
 [Practice 4]: practice/week-04
 [Practice 5]: practice/week-05
-[Practice 5]: practice/week-06
+[Practice 6]: practice/week-06
 
 
 
