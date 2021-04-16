@@ -9,7 +9,7 @@
 git pull
 #수정/작업
 git add .
-git commit -m "Submit assignment 6"
+git commit -m "Submit assignment 7"
 git push origin master
 ```
 
@@ -17,9 +17,9 @@ git push origin master
 ## 이론과제 (0 pt)
 
 ## 실습과제 (95 pt)
-[Assignment-W6]
+[Assignment-W7]
 
-[Assignment-W6]: W06-assignment.ipynb
+[Assignment-W7]: W07-assignment.ipynb
 
 ## 과제평가
 ### 과제난이도 (상/중/하)
