@@ -31,7 +31,7 @@
 |  4  |  3월 27일           |    조건문,반복문  |  [Lecture 4],[Practice 4]   |  [Assignment 4] |     |
 |  5  |  4월 3일            |    함수, 클래스   |  [Lecture 5],[Practice 5]   |   [Assignment 5]   |     |
 |  6  |  4월 10일           |    Data        |  [Lecture 6],[Practice 6] |   -            |     |
-|  7  |  4월 17일           |    데이터 전처리   |  [Lecture 7],[Practice 7]   |   [Assignment 6]   |     |
+|  7  |  4월 17일           |    데이터 전처리   |  [Lecture 7],[Practice 7]   |   [Assignment 7]   |     |
 |  8  |  4월 24일           |    데이터 시각화   |                    |               |     |
 |  -  |  휴강               |                |                    |               |     |
 |  9  |  5월 8일            |    빅데이터 분석1   |                    |               |     |
@@ -56,7 +56,7 @@
 [Assignment 3]: assignment/week-03
 [Assignment 4]: assignment/week-04
 [Assignment 5]: assignment/week-05
-[Assignment 6]: assignment/week-06
+[Assignment 7]: assignment/week-07
 
 
 
@@ -82,7 +82,7 @@
 | [Assignment 3]                      |  토, 3월 20일  |  금, 3월 26일 | |[Video](https://www.loom.com/share/249dd9853b2f4525b3f8e0f80a442294) | 20 |
 | [Assignment 4]                      |  토, 3월 27일  |  금, 4월 3일 | | [Video](https://www.loom.com/share/52d11ffa88054cd2934065838268f030) | 50 |
 | [Assignment 5]                      |  토, 4월 3일  |  금, 4월 16일 | | | 70 |
-| [Assignment 6]                      |  토, 4월 17일  |  금, 4월 30일 | | | 95 |
+| [Assignment 7]                      |  토, 4월 17일  |  금, 4월 30일 | | | 95 |
 
 
 
