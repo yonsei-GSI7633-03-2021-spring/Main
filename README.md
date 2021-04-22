@@ -32,7 +32,7 @@
 |  5  |  4월 3일            |    함수, 클래스   |  [Lecture 5],[Practice 5]   |   [Assignment 5]   |     |
 |  6  |  4월 10일           |    Data        |  [Lecture 6],[Practice 6] |   -            |     |
 |  7  |  4월 17일           |    데이터 전처리   |  [Lecture 7],[Practice 7]   |   [Assignment 7]   |     |
-|  8  |  4월 24일           |    데이터 시각화   |                    |               |     |
+|  8  |  4월 24일           |    데이터 시각화   | [Lecture 8],[Practice 8]|               |     |
 |  -  |  휴강               |                |                    |               |     |
 |  9  |  5월 8일            |    빅데이터 분석1   |                    |               |     |
 |  10 |  5월 15일           |    빅데이터 분석2   |                    |               |     |
@@ -49,6 +49,7 @@
 [Lecture 5]: lecture/week-05
 [Lecture 6]: lecture/week-06
 [Lecture 7]: lecture/week-07
+[Lecture 8]: lecture/week-08
 
 
 [Assignment 1]: assignment/week-01
@@ -67,6 +68,7 @@
 [Practice 5]: practice/week-05
 [Practice 6]: practice/week-06
 [Practice 7]: practice/week-07
+[Practice 8]: practice/week-08
 
 
 [FAQ 1]: FAQ.md#week-01
