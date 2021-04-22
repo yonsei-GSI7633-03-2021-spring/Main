@@ -82,7 +82,7 @@
 | [Assignment 3]                      |  토, 3월 20일  |  금, 3월 26일 | |[Video](https://www.loom.com/share/249dd9853b2f4525b3f8e0f80a442294) | 20 |
 | [Assignment 4]                      |  토, 3월 27일  |  금, 4월 3일 | | [Video](https://www.loom.com/share/52d11ffa88054cd2934065838268f030) | 50 |
 | [Assignment 5]                      |  토, 4월 3일  |  금, 4월 16일 | | [Video](https://www.loom.com/share/4e0b91e75bfa4d29868a8318f5448f87) | 70 |
-| [Assignment 6]                      |  토, 4월 17일  |  금, 5월 7일 | | | 95 |
+| [Assignment 7]                      |  토, 4월 17일  |  금, 5월 7일 | | | 95 |
 
 
 
