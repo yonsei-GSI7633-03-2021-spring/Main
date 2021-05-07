@@ -34,7 +34,7 @@
 |  7  |  4월 17일           |    데이터 전처리   |  [Lecture 7],[Practice 7]   |   [Assignment 7]   |     |
 |  8  |  4월 24일           |    데이터 시각화   | [Lecture 8],[Practice 8]|               |     |
 |  -  |  휴강               |                |                    |               |     |
-|  9  |  5월 8일            |    빅데이터 분석1   |                    |               |     |
+|  9  |  5월 8일            |    빅데이터 분석1   | [Lecture 9],[Practice 9] |               |     |
 |  10 |  5월 15일           |    빅데이터 분석2   |                    |               |     |
 
 
@@ -50,6 +50,7 @@
 [Lecture 6]: lecture/week-06
 [Lecture 7]: lecture/week-07
 [Lecture 8]: lecture/week-08
+[Lecture 9]: lecture/week-09
 
 
 [Assignment 1]: assignment/week-01
@@ -69,6 +70,7 @@
 [Practice 6]: practice/week-06
 [Practice 7]: practice/week-07
 [Practice 8]: practice/week-08
+[Practice 9]: practice/week-09
 
 
 [FAQ 1]: FAQ.md#week-01
