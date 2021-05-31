@@ -34,7 +34,7 @@
 |  7  |  4월 17일           |    데이터 전처리   |  [Lecture 7],[Practice 7]   |   [Assignment 7]   |     |
 |  8  |  4월 24일           |    데이터 시각화   | [Lecture 8],[Practice 8]|               |     |
 |  -  |  휴강               |                |                    |               |     |
-|  9  |  5월 8일            |    빅데이터 분석1   | [Lecture 9],[Practice 9] |               |     |
+|  9  |  5월 8일            |    빅데이터 분석   | [Lecture 9],[Practice 9] |               |     |
 |  10 |  5월 15일           |    실전 앱 만들기   | [Lecture 10],[Practice 10] |               |     |
 
 
